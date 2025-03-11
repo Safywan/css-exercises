@@ -1,0 +1,9 @@
+/*Using external CSS to connect with the html file */
+/* Edited the first line  */
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
