@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+/*This is called chain selectors. So cold*/
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+}
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
