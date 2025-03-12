@@ -1,0 +1,14 @@
+/*Shared characteristics. Grouped selectors!*/
+.firstB,
+.secondB {
+    font-size: 28px;
+    font-family: Helvetia, "Times New Roman", sans-serif;
+}
+/*Unique characters by just using singular selectors*/
+.firstB{
+    background-color: #000000;
+    color: rgb(255, 255, 255)
+}
+.secondB{
+    background-color: #ffff00;   
+}
