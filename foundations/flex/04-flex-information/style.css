@@ -10,6 +10,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -23,4 +24,21 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+/*Adding additional selectors*/
+
+/*
+Explore the rules of applying css rules within nested div!!!
+*/
+body {
+  text-align: center;
+}
+.fruits {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+.info{
+  max-width: 200px;
 }
